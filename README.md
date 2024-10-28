@@ -1,5 +1,5 @@
 - 👋 Hi, I am Nabil Safowan.
-- 👀 I’m interested in AI, Machine Learning, Problem Solving.
+- 👀 I’m interested in Problem Solving, AI, Machine Learning.
 - 🌱 I’m currently learning Bootstrap
 - 📫 How to reach me: Contact me via email (nabilsafowan936@gmail.com)
 - ⚡ Fun fact: I love to sleep.
