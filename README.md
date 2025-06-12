@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabisuke&label=Profile%20views&color=0e75b6&style=flat" alt="nabisuke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabisuke" alt="nabisuke" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript and Django**
 
 - 📫 How to reach me **nabilsafowan936@gmail.com**
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabisuke&show_icons=true&locale=en&layout=compact" alt="nabisuke" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabisuke&show_icons=true&locale=en" alt="nabisuke" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabisuke&" alt="nabisuke" /></p>
