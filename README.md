@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nabilsafowan936@gmail.com**
 
-- ⚡ Fun fact **I love to sleep**
+- ⚡ Fun fact **When I'm not coding, I'm probably catching up on sleep or dreaming of new project ideas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
