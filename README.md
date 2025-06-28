@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
+## 🥅 My Yearly Goals Journey
+
+- 🥅 **2025 Goals:** Become Codeforces Pupil & Create a professional project 🚀
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabisuke&label=Profile%20views&color=0e75b6&style=flat" alt="nabisuke" /> </p>
 
