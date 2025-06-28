@@ -4,7 +4,7 @@
 ## 🥅 My Yearly Goals Journey
 
 - 🥅 **2025 Goals:** Become Codeforces Pupil & Create a professional project 🚀
-
+## About Me
 - 🌱 I’m currently learning **Javascript and Django**
 
 - 📫 How to reach me **nabilsafowan936@gmail.com**
