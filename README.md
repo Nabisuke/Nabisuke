@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabisuke&label=Profile%20views&color=0e75b6&style=flat" alt="nabisuke" /> </p>
 ## 🥅 My Yearly Goals Journey
 
-- 🥅 **2025 Goals:** Become Pupil on Codeforces & Create a professional project 🚀 Status: unfinished
-## About Me
+- 🥅 **2025 Goals:** in_progress
 - 🌱 I’m currently learning **Javascript and Django**
 
 - 📫 How to reach me **nabilsafowan936@gmail.com**
