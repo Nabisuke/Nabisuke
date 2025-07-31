@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabisuke&label=Profile%20views&color=0e75b6&style=flat" alt="nabisuke" /> </p>
-## 🥅 My Yearly Goals Journey
-
-- 🥅 **2025 Goals:** in_progress
-- 🌱 I’m currently learning **Javascript and Django**
 
 - 📫 How to reach me **nabilsafowan936@gmail.com**
 
