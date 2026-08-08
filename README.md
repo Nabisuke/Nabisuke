@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nabil-safowan-109032276/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil safowan" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/md-nabil-safowan-109032276/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil safowan" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/nabil_safowan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="nabil_safowan" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/nabilsafowan936" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nabilsafowan936" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/nabil_safowan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nabil_safowan" height="30" width="40" /></a>
