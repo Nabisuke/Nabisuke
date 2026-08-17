@@ -32,8 +32,7 @@
 </p>
 
 <!-- Stats Cards Alignment -->
-<!-- Stats Cards Alignment -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabisuke&show_icons=true&locale=en&theme=dark" alt="nabisuke's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabisuke&show_icons=true&locale=en&layout=compact&theme=dark" alt="nabisuke's top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabisuke&theme=dark" alt="nabisuke's github streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nabisuke&show_icons=true&locale=en&layout=compact&theme=dark" alt="nabisuke's top languages" />
 </p>
